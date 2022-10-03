@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">Le Wagon graduate, passionate about data</h3>
 
