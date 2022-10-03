@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">Le Wagon graduate, passionate about data</h3>
+<h1 align="center">:v: I'm Jamie  :v:</h1>
+<h2 align="center">Le Wagon graduate, passionate about data</h2>
 
-- :telescope: Current project; an exploratory analysis of crime in the London Metropolitan area
+<h3 align="left">A little bit about me:</h3>
+
+- :telescope: My current project; an exploratory analysis of crime in the London Metropolitan area
 
 - :books: Working towards Datacamps Data Science Professional certification
 
-- 🌱 Soon be learning; Tableau, AWS / Azure / GCP
-
-- 🤝 Open to project collaborations and knowledge sharing
+- 🌱 Soon to be learning; Tableau, AWS / Azure / GCP
 
 - :speech_balloon: Ask me about my bootcamp experience
 
-- :email: Reach me at **jamiewelch1011@gmail.com**
+- 🤝 Open to project collaborations and knowledge sharing
+
+- :email: Feel free to reach me at **jamiewelch1011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
